@@ -1,0 +1,2 @@
+rootProject.name = "BatteryAlarm"
+include ':app'
